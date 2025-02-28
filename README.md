@@ -42,7 +42,7 @@ backgroundManager.setBackground(.image(UIImage(named: "background")))
 
 ## Requirements
 - iOS 15.0+
-- Swift 6
+- Swift 5.9
 - Vision Framework
 
 ## Contribution
